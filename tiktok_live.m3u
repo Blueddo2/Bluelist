@@ -1,11 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463387851091544854_ld.flv?expire=1738917459&sign=057e8190d0094edbcdeee8ed678db184
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463378691859434262_ld.flv?expire=1738917461&sign=77c569af4c3bf17340c717c2a586a493
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463387851091544854_ld.flv?expire=1738920610&sign=831f630dc9002186fcbe4669d308dacd
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",auntbelladella
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463380110922615574_ld.flv?expire=1738917461&sign=f7efd585801e15b609d25377d79bcceb
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",majlinda_7777
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463374286036683542_ld.flv?expire=1738917474&sign=7cc07cece2485a1b3d821a03266df7bb
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463359566526597910_ld.flv?expire=1738917505&sign=d577579a93611dc690e20aca3f013d4b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463380110922615574_ld.flv?expire=1738920612&sign=0f622fc6adfb320725223efa26feb3af
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",steve_ant
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463403206292409110_ld.flv?expire=1738920616&sign=9cf3e779363aefcbdafbe88d799c4202
