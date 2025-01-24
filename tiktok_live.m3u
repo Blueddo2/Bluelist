@@ -1,11 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463308237698386710_ld.flv?expire=1738899180&sign=815cea5afe8c94c3e7ac4ea2a25fbc60
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theodora__astr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463279314835147542_ld.flv?expire=1738895961&sign=2a03ff1e741269be0b27e0a0f1832820
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463261076231064342_ld.flv?expire=1738895963&sign=436c5fb0e330a0884219d0f8572076b1
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463236994685602582_ld.flv?expire=1738895970&sign=3da22cd4178902ba146505eeb9538216
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7462782151979911958_ld.flv?expire=1738895970&sign=d90c865543232932116a3b646b934c03
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463279314835147542_ld.flv?expire=1738899180&sign=9f590ae4683693e0df10f9af1f68704e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463235975869074198_ld.flv?expire=1738895970&sign=2a4fd13e9e451e1a7e6321a267c9cd23
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463235975869074198_ld.flv?expire=1738899190&sign=24c2c30f93a2cf1358010be399ae4c7f
