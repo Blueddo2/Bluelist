@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",despoina_dim_
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463905515297639190_ld.flv?expire=1739036245&sign=2b5e6807574bebe93e419441ec93a24b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eosforos_._666
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463877624319740694_ld.flv?expire=1739035572&sign=123fb0c54849b4baf8aa5dbaa6e31724
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463877624319740694_ld.flv?expire=1739036247&sign=e89bca7f11ccf53b5c8539b725141ab0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463904903010716438_ld.flv?expire=1739035574&sign=42f6eb213177ac4ed5ac1f1601e912a1
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463904903010716438_ld.flv?expire=1739036249&sign=dd1391e40f29a276a55fe31ff2e97241
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",angelos.bam2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463880461954632470_ld.flv?expire=1739035587&sign=90b55615a34c913f2f25987ebb8f0530
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463880461954632470_ld.flv?expire=1739036263&sign=1b0fbd98d6919c2fb2a1a542b805be10
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",potsepistasos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463903058084268822_ld.flv?expire=1739035604&sign=b91209c471a1082535acaa98c97ed490
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463903058084268822_ld.flv?expire=1739036279&sign=0c287eb5e6482b1ff89c5c3b66b1f64d
