@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viva.camper
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464209869538691862_ld.flv?expire=1739111300&sign=68dfebadfe695a6cf6ada79d0329c1b3
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464209869538691862_ld.flv?expire=1739111955&sign=d9819a6b72ef4af7873534b58f27b6ee
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eosforos_._666
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464187098476956438_ld.flv?expire=1739111302&sign=67f90b80e6bfbbf4396eb0d669aca5ae
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464187098476956438_ld.flv?expire=1739111957&sign=2c8f867798d3c51667c65f8623035afa
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464230019801991958_ld.flv?expire=1739111311&sign=2946086c9df24d82b2dc6e933458a9da
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464230019801991958_ld.flv?expire=1739111965&sign=15e43e460d56713080febc040ff8b754
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kokkinosskoufos_skg
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464168365612223254_ld.flv?expire=1739111324&sign=8b2dfe8f76eefc60acd743f0f316219f
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",saliagos.nikos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464222493402762006_ld.flv?expire=1739111339&sign=8d6a6aacd56ddecfc17b52567723f7fe
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464168365612223254_ld.flv?expire=1739111977&sign=b05648e58313f04b9be0c99aedbd2eb1
