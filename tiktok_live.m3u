@@ -1,11 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7463982604237146902_ld.flv?expire=1739105769&sign=c3ae8e31a1b67e76123938d343703487
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viva.camper
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464209869538691862_ld.flv?expire=1739107740&sign=d891c4e8260ae9a9c5c420bf07e9d50d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eosforos_._666
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464187098476956438_ld.flv?expire=1739105781&sign=34987c331a274d9b82b28d140771303e
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzortzia01
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464201296431581974_ld.flv?expire=1739105783&sign=7c2328b8474952050a4f413a6acc6438
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",majlinda_7777
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464169616567880470_ld.flv?expire=1739105785&sign=487c3f2646599183366ff4b7b15e5300
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464187098476956438_ld.flv?expire=1739107742&sign=752fd2f508df1705074f76632fc4b881
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kokkinosskoufos_skg
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464168365612223254_ld.flv?expire=1739105802&sign=2dd3ff1ac1fa12bb241b5262e848fa56
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464168365612223254_ld.flv?expire=1739107764&sign=f88e856fd115c77dbe949388bafe547a
