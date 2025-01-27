@@ -1,11 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464461655620406038_ld.flv?expire=1739172389&sign=4e4e476aa7edb20d0ca1f584dc0b8d06
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464457814715435798_ld.flv?expire=1739172389&sign=6894fac4253fa0d74ad3781907bf68b4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464457814715435798_ld.flv?expire=1739173121&sign=3d47afdb0d6966662c88ba0f2c41f83d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464461655620406038_ld.flv?expire=1739173121&sign=83344266de31701520966a803156e5ad
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464478939629587222_ld.flv?expire=1739172402&sign=d41bea05572cd0529b61b56576480bef
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464478939629587222_ld.flv?expire=1739173135&sign=307f51b45615d154bf584ba6368991aa
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",majlinda_7777
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464483911758777110_ld.flv?expire=1739172404&sign=7425a9c02247fc5c3f9f7aa33cc9a0cb
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464483911758777110_ld.flv?expire=1739173137&sign=a83e0db1415d1af136ce5b6a5e733c7f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464471833207720726_ld.flv?expire=1739172435&sign=9914dbb5638c34766ced5a6edc6bdb8d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464471833207720726_ld.flv?expire=1739173168&sign=7717e8ce4e153734551d614c8c73fff1
