@@ -1,13 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",to_moviesroom
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465121981764012822_ld.flv?expire=1739327838&sign=279be107a1d4b2b7f2da793410586fcb
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theodora__astr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465098781618146070_ld.flv?expire=1739327838&sign=7c114938ab871621318daf4211edb87c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465124776068778774_ld.flv?expire=1739327840&sign=2c6624071c170c177629eb5d59b2254b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465121981764012822_ld.flv?expire=1739331135&sign=46740672a58353d7d48713884947c9c4
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",faihsigala
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465088857398004502_ld.flv?expire=1739327846&sign=7ed1978b46e60236b3765fcc4774c736
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465091475698502422_ld.flv?expire=1739327847&sign=efa49f6b92a981fe6a7d46cb9dc0b708
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465030428680850199_ld.flv?expire=1739327847&sign=8917aa58c85805ce649085f5c453c8e0
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465088857398004502_ld.flv?expire=1739331144&sign=05c226adfb8149d2e225994863ebacbf
