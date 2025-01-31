@@ -1,19 +1,21 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466087266713750294_ld.flv?expire=1739546828&sign=a6e484db49c0e490c68047c653fef49a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466087266713750294_ld.flv?expire=1739547666&sign=a424b68fe4f24266fb223d06ac627046
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",to_moviesroom
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466098117059414806_ld.flv?expire=1739546831&sign=37cf031c146cb5f0dc9f9ebfdd4f5038
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466098117059414806_ld.flv?expire=1739547669&sign=d10659f83e6b80eb719083808d5b4539
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ngradiogr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466081547368532758_ld.flv?expire=1739546832&sign=b97548517ea9883f08ae8ac6713cfcae
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurora__one
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466084156561279766_ld.flv?expire=1739546833&sign=8853b94cdb98f4377191f6ef3de36e51
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466081547368532758_ld.flv?expire=1739547669&sign=304e4c0ece09346d93a23b048c592170
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466103924842597142_ld.flv?expire=1739547671&sign=afc37a612debb8d58157a50d17ce79f6
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",valentiniro
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466072721027648278_ld.flv?expire=1739546834&sign=b4499d9573b0debe74717a3659cc0b9b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466072721027648278_ld.flv?expire=1739547671&sign=23540c84cfd523a24e50424b8794dd99
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurora__one
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466084156561279766_ld.flv?expire=1739547671&sign=8f5131de9fbf9bc203a85c9f9ed35709
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",steve_ant
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466085439044274966_ld.flv?expire=1739546835&sign=44de7f000aadfa0e814ecb4fe304fda4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466085439044274966_ld.flv?expire=1739547673&sign=98a39205a79868026e77caf07339edbe
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466098891956652822_ld.flv?expire=1739546839&sign=793c354582f70629c0d8af04aeb1c551
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466098891956652822_ld.flv?expire=1739547677&sign=394f2e0d262dd6b7b9b2a0ace2ba1115
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466079839981406998_ld.flv?expire=1739546864&sign=a5fe07cf22d1a405c10c4cbae08be6aa
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466079839981406998_ld.flv?expire=1739547701&sign=75370c8af058454e97ec2d3e63975626
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petronela_birsilaoff
 https://pull-f5-tt03.tiktokcdn-us.com/game/stream-3287191852093801349_ld.flv
