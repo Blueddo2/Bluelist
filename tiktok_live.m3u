@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7465983890813881110_ld.flv?expire=1739529389&sign=9f4148c430635d698a0f0b00dc673437
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466001910319942422_ld.flv?expire=1739529389&sign=5d347ebc325cc12d9628b208918dcccb
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466012808595131158_ld.flv?expire=1739529394&sign=7251923707d25204cb4dd3b785f56c09
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466001910319942422_ld.flv?expire=1739532194&sign=8eae22da593049f159e79df13ca055e6
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",steve_ant
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466004073702099734_ld.flv?expire=1739529395&sign=85c0de5f3279e07cb359c8e053cba0fa
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466004073702099734_ld.flv?expire=1739532201&sign=200757fb5657451021d2e6ec7ac5e3f3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannistserkis78
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466036617371749142_ld.flv?expire=1739532215&sign=307b69090553183082f03906ed77d19b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7466035317498923798_ld.flv?expire=1739532239&sign=3148667ea3144474f9af8b5d7856123c
