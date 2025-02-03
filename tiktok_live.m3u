@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467054803802213142_ld.flv?expire=1739774502&sign=c5b56cdaaf6cc845e974812a8d4542ab
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467067197689547542_ld.flv?expire=1739774502&sign=a049786c0cc3022e36021afdbbf30048
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",anna_stamatopoulou
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467076256018762518_ld.flv?expire=1739774522&sign=f78ccb1ec966148992d46dc438eb7db4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467067197689547542_ld.flv?expire=1739777269&sign=c2f066ff1148fa27e4919d1b9eb71f19
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467054803802213142_ld.flv?expire=1739777269&sign=cf74f95876e99c0dc5c060971ad4c1f4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzortzia01
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467079538720148246_ld.flv?expire=1739777288&sign=0b8189e002ed27bfbdc68082f57e1785
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467070237390326550_ld.flv?expire=1739774550&sign=5fdabfba44203c3c9a3a8c354598fd53
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467070237390326550_ld.flv?expire=1739777318&sign=f0dc4a6de4fc97e5bb1ede8b255b03be
