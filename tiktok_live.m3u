@@ -1,9 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467427457798146838_ld.flv?expire=1739863618&sign=948c5fa145703dcb0a8042d7b2bc192d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467427457798146838_ld.flv?expire=1739864320&sign=b42f2fb2f2f0630e9bd0983a4cc31b80
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",auntbelladella
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467463184757066518_ld.flv?expire=1739864322&sign=8b4cc890f073b8394e210ed001acfbbf
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467416620710152982_ld.flv?expire=1739863635&sign=19c80f8575c99df85e7bbd26d4951e48
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467416620710152982_ld.flv?expire=1739864337&sign=291d2f43cc1a23c0f51d82c784679902
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467463635871927062_ld.flv?expire=1739864351&sign=abc979f8c0c3cc6d2f823658efd4fc0f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mimi.m1m1ka
 https://pull-f5-tt03.tiktokcdn-us.com/stage/stream-3287213180692464509_ld.flv
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467441758968761110_ld.flv?expire=1739863666&sign=e9b33ce3145e56f0adcb5644f4eb045a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7467441758968761110_ld.flv?expire=1739864366&sign=89c036505f0af9e2f9824609559121b8
