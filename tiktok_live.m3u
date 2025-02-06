@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468169745393584918_ld.flv?expire=1740036464&sign=3a9c7796899cc3c0b9b9d326e880a301
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468169745393584918_ld.flv?expire=1740037224&sign=0464059a20b71be763bf6f5060fceb11
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468187278758693654_ld.flv?expire=1740036464&sign=dfd40ed0a19a3b62d49574bb66d4eedf
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mimi.m1m1ka
-https://pull-f5-tt03.tiktokcdn-us.com/stage/stream-3287224801063338877_ld.flv
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468187278758693654_ld.flv?expire=1740037224&sign=10abe6328c9a0c07e0f941da7e15531b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468206319065975574_ld.flv?expire=1740037230&sign=4397b3ebf587273a89ffd2533eec1082
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468183295114922774_ld.flv?expire=1740036511&sign=7902c0ef8129398f2e4abe651d6957e2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468183295114922774_ld.flv?expire=1740037271&sign=53083251b4d6d430844e50d7772370ee
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",majlinda_7777
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468204686428932886_ld.flv?expire=1740037271&sign=b0d9492cfee9d4a1d3c86236e6352070
