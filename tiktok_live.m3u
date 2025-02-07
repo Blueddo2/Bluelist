@@ -1,17 +1,19 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468577892772023063_ld.flv?expire=1740123489&sign=24d93977bf4759b4982126f4159d4084
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468538611579865878_ld.flv?expire=1740123489&sign=7b5338c4056f9cf772ccba01acb05df2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468577892772023063_ld.flv?expire=1740127043&sign=f053fd0cdb56280994284fea274bb535
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468575689815165718_ld.flv?expire=1740123489&sign=b1215547bf6d13469c2424d3cfed76dc
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468575689815165718_ld.flv?expire=1740127043&sign=3fd12a0833058a39680eb222226392bb
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",auntbelladella
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468591931954645782_ld.flv?expire=1740127044&sign=7c9937d279b4e5e1b22ffaf4093f9e7f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77
-https://pull-q5-va01.tiktokcdn-us.com/stage/stream-2998999687604731945_ld.flv?expire=1740123490&sign=f36ed0dca53e39dbf934286838154678
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",staurisgianopoulo
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468574887037143830_ld.flv?expire=1740123490&sign=b6a82716d91012af5dba4f663786f53c
+https://pull-o5-va01.tiktokcdn-us.com/stage/stream-2999000402922832633_ld.flv?expire=1740127044&sign=7f6cd0bc6c08f19c6964a4d8abc2c85c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dianaviopoulo
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468577071397079830_ld.flv?expire=1740123496&sign=8c1c487b20910a5d9484ee524c04eb60
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468587573150763798_ld.flv?expire=1740127050&sign=6c509c57b36228416c238e681a7ff36c
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sfaknews
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468584469063371542_ld.flv?expire=1740127059&sign=a0df4e66e91c9730685dd15c2fba361d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",haroula_taotao
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468582506602777366_ld.flv?expire=1740127069&sign=eddb370ce05456af442b06a3f68f3dbb
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mimi.m1m1ka
+https://pull-f5-tt03.tiktokcdn-us.com/stage/stream-3287230683893465981_ld.flv
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468554591660608278_ld.flv?expire=1740123535&sign=e0822ee5f57741ed4398fead764926b8
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",majlinda_7777
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468568239737113366_ld.flv?expire=1740123535&sign=47d419394202ee9e4965d77e851efab1
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468554591660608278_ld.flv?expire=1740127088&sign=650fdc1f16f728a090a9f7171a438392
