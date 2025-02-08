@@ -1,5 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",grintelas.com
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468981300285688598_ld.flv?expire=1740218133&sign=d9d4df431841d50f201780431ac4b5fc
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468975949439044374_ld.flv?expire=1740217039&sign=a0f6c37499a72270b65e3160c1b7cf62
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468975949439044374_ld.flv?expire=1740218135&sign=ac7af247e2d11bc96282a45f68450649
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468981223815629590_ld.flv?expire=1740218136&sign=280b5e426ec5f1669e71ce6515fb743a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468980939877223190_ld.flv?expire=1740218141&sign=24d783b4e69185dd8db924c03813e229
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7464352930733263618_ld.flv?expire=1740218146&sign=f5d65585db3b9216e15da3b778d3f6d0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468976851055184642_ld.flv?expire=1740217069&sign=16ca57ab44082eec8ff413f0078ef25b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7468976851055184642_ld.flv?expire=1740218165&sign=3c9b02c94807340971a3bb3f61c2f612
