@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469656025948916502_ld.flv?expire=1740379422&sign=227080cf1b0a98dfc7498f3ce5170b0f
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77
-https://pull-w5-va01.tiktokcdn-us.com/stage/stream-2999017357492355122_ld.flv?expire=1740379424&sign=7d3d88faa6b4e2837a5289eaf96090b6
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469672662999239426_ld.flv?expire=1740379459&sign=6980f926851f11fb06b7f827f6d69137
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469656025948916502_ld.flv?expire=1740382099&sign=baad0c8a53e7e4307593b7cd8b70e8cb
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dianaviopoulo
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469685532261436182_ld.flv?expire=1740382107&sign=46859b426dd0d109f81ef242c1928008
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mimi.m1m1ka
+https://pull-f5-tt03.tiktokcdn-us.com/stage/stream-3287247916641026941_ld.flv
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469666649428265730_ld.flv?expire=1740379468&sign=f29861b83f14c30b4ae75f4311b789a0
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469666649428265730_ld.flv?expire=1740382148&sign=1e46e52a218b4a9abfbe66d2f81a1c6f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",majlinda_7777
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7469680486664325910_ld.flv?expire=1740382148&sign=bece47d752899256730d5eecaaf2534d
