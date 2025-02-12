@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470393996436261654_ld.flv?expire=1740547958&sign=bc0bed5b6559f7f72a052fd972061d39
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theodora__astr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470300936984922902_ld.flv?expire=1740547963&sign=b872eeba4c1284a868e78646a137997e
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470393996436261654_ld.flv?expire=1740552134&sign=39051d01b50a3508d303390760c0b5c7
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470411835729038102_ld.flv?expire=1740552145&sign=19e124db21b250e5b2982ff9ee24abd3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eosforos_._666
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470406356890028822_ld.flv?expire=1740552149&sign=6b72907eba7432d60ad5c8b09350811c
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",anna_stamatopoulou
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470415951479065366_ld.flv?expire=1740552154&sign=d499c7a881a307114b97547fe7e8987f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470378053462461206_ld.flv?expire=1740548006&sign=819ec9cbc5f634bcb09f4aae294d5197
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470410438912543510_ld.flv?expire=1740552185&sign=f258e02386bc8ae2718dc23788d9d810
