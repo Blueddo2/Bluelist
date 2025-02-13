@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470765306739313430_ld.flv?expire=1740641918&sign=1de219972d2b48fac53dfc03802cc5e5
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzervoudakis
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470803850086861590_ld.flv?expire=1740641951&sign=894db05bc701adcc3f49140496667000
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",artemis_asteriadi
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470809820599405334_ld.flv?expire=1740645543&sign=b9756077ac1098c5e127bfe5c2c7e91e
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470817601452231446_ld.flv?expire=1740645566&sign=e923d2df4e314400885c076a4717d91a
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mimi.m1m1ka
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470787757632228118_ld.flv?expire=1740641960&sign=2f6ee058ec2aae5f53dbbad33d81eb04
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470787757632228118_ld.flv?expire=1740645569&sign=8414eb6b61ea71e8cc8b04f329f78740
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470781205831731990_ld.flv?expire=1740641967&sign=f61de136b3de7f3a28f8722bd0514038
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470781205831731990_ld.flv?expire=1740645576&sign=83de1ca8b7819f791040f781d592f37a
