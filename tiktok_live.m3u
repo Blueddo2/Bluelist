@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",staurisgianopoulo
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470866470277876502_ld.flv?expire=1740656333&sign=c7dbc14c42f65d8173b66845a72f29ec
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",steve_ant
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470848373449313046_ld.flv?expire=1740655434&sign=1c31470e71ea2bace06947e51bb1b4d9
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",.anastasiaa_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470855427987671830_ld.flv?expire=1740655438&sign=a1fa54b89193dec1a8817108ee8206b8
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470848373449313046_ld.flv?expire=1740656340&sign=88ee5220e47486d22562783150f49241
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470839368002439958_ld.flv?expire=1740655440&sign=994d3a12fa8763f026036d5695d06552
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470839368002439958_ld.flv?expire=1740656345&sign=f80e591e5d3e67c5ce035f8ded7be138
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470821341478816514_ld.flv?expire=1740655446&sign=425f27ee586297b077f54651bd834ece
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470858218248637186_ld.flv?expire=1740655474&sign=a48a81a808a289e6941f4dae9e925483
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7470821341478816514_ld.flv?expire=1740656352&sign=49fa08e05d40fd0c64245e119b27c5b9
