@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471136082420386582_ld.flv?expire=1740724879&sign=deb5af892dff7e05fb38594aba438d6f
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471152421411769110_ld.flv?expire=1740724892&sign=2e47b03ddaef6a87ca42b379a2de150d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471136082420386582_ld.flv?expire=1740727543&sign=df388a1544400cd5d2bb5bf7e869fd2b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",steve_ant
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471171102895606551_ld.flv?expire=1740727551&sign=90a22ec597bd1cc0ea3429eb4fa6a0d7
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471162012396047126_ld.flv?expire=1740727581&sign=6c387a0363e02a5b8bf40594bccde3ba
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mimi.m1m1ka
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471169603453586198_ld.flv?expire=1740727583&sign=ed98ac4b654df1fbd7259605d56c7eaf
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471152471084157718_ld.flv?expire=1740724930&sign=0f0142e91a6b6c15da7fc61d7e9dd430
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471152471084157718_ld.flv?expire=1740727590&sign=6197e22d51cbb749b4e189a72c48fc24
