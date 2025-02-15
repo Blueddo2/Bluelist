@@ -1,13 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristosdimitroulis
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471592612594109206_ld.flv?expire=1740829154&sign=e56f350e2d6f95d8c5e4bfda981f38c9
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471577257488812822_ld.flv?expire=1740829156&sign=f3a3418cbc653642c2b3fecb4011f34a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471577257488812822_ld.flv?expire=1740833839&sign=094fe9bc20b777cee781f3b08bea8df7
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",.anastasiaa_official
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471612264785840919_ld.flv?expire=1740833839&sign=2d5ede6d6aa05ce8b75941619a4848cd
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471597477381081878_ld.flv?expire=1740829164&sign=72c2e5666cdfdfe53fda9bf6b5dfb6fa
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",levonleon1996
-https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7471561281402276630_ld.flv?expire=1740829166&sign=822f2fd4ab0d5a99221427fe10d3c9f5
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",haroula_taotao
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471608536509418262_ld.flv?expire=1740829172&sign=0cd2f26fc9b92f3bc9c8e90ff1f9a9dc
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pimenidisfilipos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471608937364982550_ld.flv?expire=1740829190&sign=a2905e4cc47543e84f0719540ebefe34
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7471625718112193282_ld.flv?expire=1740833847&sign=858bec23bb4212afe8b2fe0d0f05427e
