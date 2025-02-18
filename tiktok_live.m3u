@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472668816909093654_ld.flv?expire=1741077524&sign=2cf5c2b14376a0ebcbfdc2a445f1597c
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472668816909093654_ld.flv?expire=1741080646&sign=d615ce693e686a8c6bcd19846d82b357
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472653979407682326_ld.flv?expire=1741077527&sign=ff96983452e2c34b4146a6408b1907b6
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472653979407682326_ld.flv?expire=1741080650&sign=baa6e5d2eed627ca168df1b1dfaeeeda
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",artemis_asteriadi
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472669812888455958_ld.flv?expire=1741077537&sign=1610de65dc202aeda3d8b1e5c96a5e1a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472669812888455958_ld.flv?expire=1741080660&sign=843a3bb5744d8a266432df41148e28b7
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472664751034714902_ld.flv?expire=1741077557&sign=ab38ffa17dbaa1b3bb1f8cbb575ddd40
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472664751034714902_ld.flv?expire=1741080677&sign=3ff1c457e9b7f2acaa8dbfd6ad682966
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472680556531157782_ld.flv?expire=1741080683&sign=5c1a95f55e5ffdf40826517352d9a1f2
