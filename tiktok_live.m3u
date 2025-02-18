@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472622385632430870_ld.flv?expire=1741066448&sign=9bf9d6b1090f99c3c71dcc4e8e2f7a4a
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77
-https://pull-o5-va01.tiktokcdn-us.com/stage/stream-2999063215340782329_ld.flv?expire=1741062940&sign=65daa2b25f6d859837dbd34d5d082f6d
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472447228600486678_ld.flv?expire=1741062955&sign=df47ce9c35b6e76baa98bcdff19786ce
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472610100767640342_ld.flv?expire=1741062979&sign=13b1e06591d6a1c326cd662309a193a1
+https://pull-o5-va01.tiktokcdn-us.com/stage/stream-2999063495637730041_ld.flv?expire=1741066450&sign=39e3e07df2af124a204557895a3403ef
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472625442004978454_ld.flv?expire=1741066485&sign=73654c868294d1a8db301c6cecb7c531
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472604667533380374_ld.flv?expire=1741062984&sign=63948abbafadf90daceb4bbd4450fef5
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472604667533380374_ld.flv?expire=1741066494&sign=7201248fab2888d9f8c077aac983ba0a
