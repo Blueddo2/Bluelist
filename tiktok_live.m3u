@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",staurisgianopoulo
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473798126183418646_ld.flv?expire=1741340120&sign=0fc467c416a3a99bb63609dfcd95a6e2
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473787245779012374_ld.flv?expire=1741338559&sign=452c97de33d3196923c387196b15367c
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473787245779012374_ld.flv?expire=1741340122&sign=2e71b776349d8714cee2edde608b1d49
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473792539192036098_ld.flv?expire=1741338569&sign=259d979f1428e62c6775c28123bc8f08
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473792539192036098_ld.flv?expire=1741340130&sign=c112d0373d4bd139df41e11cdc07888f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473788828705770262_ld.flv?expire=1741338591&sign=e780bb6d5cbfa67f69f4f6d46e716e21
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473788828705770262_ld.flv?expire=1741340150&sign=66f18a32f1b6993906f4ae2622fbf044
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473775739264437014_ld.flv?expire=1741338601&sign=03bae16d78ffc381ef8c503d0fe7288f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7473775739264437014_ld.flv?expire=1741340159&sign=fe4dad10ce031120d1361a396d58306f
