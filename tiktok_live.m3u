@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474156807762545431_ld.flv?expire=1741423053&sign=bbed6cb08ea65f02763b3b9c19369777
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474156807762545431_ld.flv?expire=1741424889&sign=1ad7d723fa0904452cc16e0c90a4ae7c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474130502744623894_ld.flv?expire=1741423056&sign=66aeefca3baea8b114a638f60d985373
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474130502744623894_ld.flv?expire=1741424892&sign=95c194dc8edb36fed569af3b62e9cef9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",artemis_asteriadi
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474161299087117078_ld.flv?expire=1741424903&sign=01d3a8b956217715c95096e6e8042bb4
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474157920599526166_ld.flv?expire=1741423074&sign=4c4e21edda96b3db2421dcea50418c84
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474157920599526166_ld.flv?expire=1741424909&sign=cfe75159f58698f7c8e5c63a7cf7b32d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",levonleon1996
-https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7474130482726062870_ld.flv?expire=1741423075&sign=e3060f480681ecba1aecee1772c1be2e
+https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7474130482726062870_ld.flv?expire=1741424910&sign=89f5d8a697f2c27a347bca5daf9f4dcf
