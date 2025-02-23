@@ -1,11 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474513031129582358_ld.flv?expire=1741507816&sign=2e3d7aa03365eb68ab4bf54a6482fb8e
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474513031129582358_ld.flv?expire=1741509476&sign=655453a29fdbdb35bb7d589a0cd95846
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474527540473154326_ld.flv?expire=1741509478&sign=3764e65cd3ad759ccca0c1175220ce6a
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474477089429687042_ld.flv?expire=1741507830&sign=0db8a4399b794039fa4ce98e4fdfff77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474477089429687042_ld.flv?expire=1741509490&sign=0151d76e47f650dd3f8440869ee936ef
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",levonleon1996
-https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7474501318128716566_ld.flv?expire=1741507833&sign=b5954f1436e73bfa47a3ad05de202b99
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474511898886818582_ld.flv?expire=1741507845&sign=115b2721534682789e89d4524fce7770
+https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7474501318128716566_ld.flv?expire=1741509493&sign=6b8c77ad396b6eb0abc6af7b9b78514e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474502293971323670_ld.flv?expire=1741507849&sign=83856da38917d0b2c5dcc83bb1caf0f2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7474502293971323670_ld.flv?expire=1741509510&sign=fd0c49bf760491b35fd8d89b3a39863f
