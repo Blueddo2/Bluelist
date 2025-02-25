@@ -1,11 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",staurisgianopoulo
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475073192916568854_ld.flv?expire=1741666296&sign=3978416416bcf5a9d2053f6b6c180fbe
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theodora__astr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475110664307772182_ld.flv?expire=1741666299&sign=b4c0dc7e12bc47cc2215cd74a8e3321f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475110664307772182_ld.flv?expire=1741667962&sign=ec596549e7802ae4dfb7bedc148d2f77
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",d0nalduck7
-https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7475063595091364630_ld.flv?expire=1741666302&sign=563f3be2b1ea25012121d61919047a49
+https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7475063595091364630_ld.flv?expire=1741667965&sign=fc0c1e608088fcea0c6e0411eff5545d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475192552031898390_ld.flv?expire=1741666302&sign=e8411b65944c280b2c9e9013a55e932b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475208147515214594_ld.flv?expire=1741667966&sign=00ebe5a14c58764cc6b262e6fbb571af
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",despoinabarka4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7472058536449641239_ld.flv?expire=1741667989&sign=430f5d8f9ea54792793524bb955df5ba
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475202099438865174_ld.flv?expire=1741666339&sign=57c5652982416b86d1ae53df9f63c21c
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475202099438865174_ld.flv?expire=1741668002&sign=10256ab4172de0f4759081d497b7bcba
