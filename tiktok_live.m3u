@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475262364519729942_ld.flv?expire=1741682456&sign=68dc82380a0c5577d4dea620a133ae8f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475240045163629334_ld.flv?expire=1741682456&sign=8548dd523b98876216a7cc607993a65b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475240045163629334_ld.flv?expire=1741684185&sign=7767b112d509059b68c292977a8d27f0
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77
+https://pull-f5-va01.tiktokcdn-us.com/stage/stream-2999104958513283145_ld.flv
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475257791287429910_ld.flv?expire=1741682458&sign=89d3fbcf9052297b396d7d0fa60be671
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475257791287429910_ld.flv?expire=1741684187&sign=25a63e32faa704018fa2c719995cbf6a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giorgos_mitafis
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475277043576441622_ld.flv?expire=1741684200&sign=f505ccdebd4cc418bc2ce4221805a167
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475267680174344982_ld.flv?expire=1741682486&sign=01e1be6b1dae0281ef79207889771923
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475267680174344982_ld.flv?expire=1741684215&sign=4a93c1eb29d027f924ea4d33814565f0
