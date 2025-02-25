@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475262364519729942_ld.flv?expire=1741680739&sign=823c22d663d448d939ad5d99b9e98511
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475262364519729942_ld.flv?expire=1741682456&sign=68dc82380a0c5577d4dea620a133ae8f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475240045163629334_ld.flv?expire=1741680739&sign=1b4fe16bac4710a33b8cca0753136dcc
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475240045163629334_ld.flv?expire=1741682456&sign=8548dd523b98876216a7cc607993a65b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475257791287429910_ld.flv?expire=1741680742&sign=f67239f7a1da978b08c1c7b091084273
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475243395137440534_ld.flv?expire=1741680777&sign=f8dd18d995a776c0bfc5f08134a97517
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475234204939881238_ld.flv?expire=1741680785&sign=883b9af344c082eaccdc384183c68326
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475257791287429910_ld.flv?expire=1741682458&sign=89d3fbcf9052297b396d7d0fa60be671
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475267680174344982_ld.flv?expire=1741682486&sign=01e1be6b1dae0281ef79207889771923
