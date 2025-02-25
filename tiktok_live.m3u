@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzortzia01
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475299020694063894_ld.flv?expire=1741689645&sign=66f0144f77f6aee9c25d4d3b9fa39f1f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475299020694063894_ld.flv?expire=1741691299&sign=804eb96f2f450f05dac5fe4a0b0359de
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475285446957763350_ld.flv?expire=1741689659&sign=39b76ff98983ee2dd1e9675b5e23f4be
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475303847079725846_ld.flv?expire=1741689660&sign=d2ffc82bb5f45c2cdb274b68a68f7c11
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475296031980079894_ld.flv?expire=1741689668&sign=e382b76dea47d60f7f73a883b5405e91
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475285446957763350_ld.flv?expire=1741691314&sign=6775143153359914af1e464fff0b4c39
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzervoudakis
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475310847158520598_ld.flv?expire=1741691315&sign=3fc1f229d165250116272a2770c3cb52
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7475311202853423894_ld.flv?expire=1741691328&sign=a82daa25087c1e70d2fc83834482b4d5
