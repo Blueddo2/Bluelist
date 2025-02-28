@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476425745715759894_ld.flv?expire=1741958223&sign=0a5f0c49777415b23bbd6851298c7d27
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476425745715759894_ld.flv?expire=1741959491&sign=215821c79b4e2ffa7a00b2f38376af01
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",to_moviesroom
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476453577010613014_ld.flv?expire=1741958225&sign=de5eb992372ae3c0361a7397d7274051
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476453577010613014_ld.flv?expire=1741959493&sign=65476a3db87c963004ee5a1e50e68db8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",._sweet_.devil
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476459160788437783_ld.flv?expire=1741959501&sign=4c5e55d7117008d7e1a9a04a06c0ead4
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",nikoletta_korakaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476432908224088854_ld.flv?expire=1741958236&sign=86643c9b6e4c308e65623f169094a352
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476432908224088854_ld.flv?expire=1741959504&sign=d1349140b74e791132b7b06bf29a6c28
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476435683865037590_ld.flv?expire=1741958242&sign=56b5afc9ff54596cd1ed983598c18c27
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476435683865037590_ld.flv?expire=1741959509&sign=a5a64ad81d8291b670c8ce1ba2211dd8
