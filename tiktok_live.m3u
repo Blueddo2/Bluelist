@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476425745715759894_ld.flv?expire=1741952025&sign=a9050574ba817db05bbb06f066054eb6
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476425745715759894_ld.flv?expire=1741954550&sign=2333930d2ba9c812154dc908220bc024
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",to_moviesroom
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476435258762693398_ld.flv?expire=1741954551&sign=f45626813ad44eeb6db0e0db6ddd13d0
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",nikoletta_korakaki
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476432908224088854_ld.flv?expire=1741954562&sign=5e8705d00456b4e7e74154e7d42318e0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476411345573071638_ld.flv?expire=1741952044&sign=032d6af77e9828857e2ebe8d815892de
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",haroula_taotao
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476425130253994774_ld.flv?expire=1741952051&sign=15fd691075406750fcea79f639c3b354
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476420904231570198_ld.flv?expire=1741952069&sign=68d1ff2813465e0aeb622ed766f26056
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476435683865037590_ld.flv?expire=1741954568&sign=3fcef19ab81b058b4b97cfbbe5ee085b
