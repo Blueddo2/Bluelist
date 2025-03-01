@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476631414230813463_ld.flv?expire=1742004655&sign=c1f453bd6bbbe90fef9ce73eedfdd865
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476631414230813463_ld.flv?expire=1742005133&sign=1f2d9f3e8d2f09f58fd69179bd70876f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",._sweet_.devil
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476636168198277910_ld.flv?expire=1742004663&sign=6296b9f2e12799d54418876510642839
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476636168198277910_ld.flv?expire=1742005141&sign=b66a7059eedb6e755f6178b406b31659
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476577984549915414_ld.flv?expire=1742004668&sign=827c9b98795924efd907a24c06cb56ea
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476580384550013718_ld.flv?expire=1742004668&sign=c70894dfb790c644e83b5aa211515c3e
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476577984549915414_ld.flv?expire=1742005147&sign=0b1537502f408cb172933407734a0342
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",katerinawhybe
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476625966111623958_ld.flv?expire=1742004694&sign=e118527d790dca2d9ac705db86d31327
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476625966111623958_ld.flv?expire=1742005171&sign=a88ead5d9676515f7a25474d28a78ae1
