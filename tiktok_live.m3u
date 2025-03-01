@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476780775892257558_ld.flv?expire=1742033313&sign=566a6a0f4edf70679b3c7b1560782a45
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476740530928765718_ld.flv?expire=1742031255&sign=951e3dedd2c5e502ae7be8f906598ce8
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476740530928765718_ld.flv?expire=1742033315&sign=b1cc93d72505600faad3c6a52a6cb495
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476775852848499478_ld.flv?expire=1742033322&sign=d4a9952bbf29eabc47bb0c8969a8365a
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476760918288042774_ld.flv?expire=1742031266&sign=a4c963efeb17b765f54f5e2b1e220252
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476763797128022806_ld.flv?expire=1742031266&sign=f7745479681f8ccf0113fb17be5dfef5
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476760918288042774_ld.flv?expire=1742033327&sign=57e16bd9694de9aa5a2b7e6fef26a2f2
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476780931065334550_ld.flv?expire=1742033346&sign=16dc4829cc11c0ed2512bfc1b692c39d
