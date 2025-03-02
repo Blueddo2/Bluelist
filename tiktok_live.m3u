@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476948391247104790_ld.flv?expire=1742085921&sign=3fc663eb098d191daf1708ba625d41ad
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",stefania_greece_4
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476924768492112662_ld.flv?expire=1742085929&sign=421f0b43e2289502641b51d5931e9a9f
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476920382714317590_ld.flv?expire=1742085931&sign=c32ccf6feb1c46af7aa17368b4b35960
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476948391247104790_ld.flv?expire=1742090993&sign=3add83a0c15aeafc0e3450e0881dcf91
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",._sweet_.devil
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477023720452803350_ld.flv?expire=1742090998&sign=ece4a37a6330b9bf7c99568c1345a4fc
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476983305695447830_ld.flv?expire=1742085943&sign=6596bc296e9429bec73a559d071f80ad
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7476983305695447830_ld.flv?expire=1742091016&sign=c3bd876ddcaa1e16a1b38316f63db959
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",katerinawhybe
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477000369877420822_ld.flv?expire=1742091030&sign=9d3cd71bdb177bb4bf8d09773c2c64b1
