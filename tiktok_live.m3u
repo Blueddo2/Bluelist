@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477552372936379138_ld.flv?expire=1742213811&sign=d0434f09b26ec2a0fcddc76baecc52f3
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477507187968117526_ld.flv?expire=1742211232&sign=2221d36020a502058728ac095b7412f8
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477539781757455126_ld.flv?expire=1742211239&sign=8c0c940d2187162727b9fc1fdcd5546a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477507187968117526_ld.flv?expire=1742213813&sign=2c2b1eaa866da10e23ab0b6cf26d3353
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eosforos_._666
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477548026820315926_ld.flv?expire=1742213828&sign=a6c6caabcf20d0175e3ef2041369ff48
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477542264615734038_ld.flv?expire=1742211267&sign=96b524b0079955d75230ab15d335bd4c
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477542264615734038_ld.flv?expire=1742213850&sign=05573e56b1f08fde260b5a7acbadae16
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",basiliki_makri
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7477553140477610774_ld.flv?expire=1742213851&sign=f5229157600cd6aeca1187ba7811330f
