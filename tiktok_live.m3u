@@ -1,13 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478250271819320086_ld.flv?expire=1742378996&sign=6e91e60877b2bea50e4cadd426f94d64
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478250271819320086_ld.flv?expire=1742380842&sign=1e09145d3a52ac13989b8950f6b49a20
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",staurisgianopoulo
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478243660509842198_ld.flv?expire=1742378998&sign=6e0269f9d782ef48c200f16f523e40ce
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eephydatia
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478260550670764822_ld.flv?expire=1742379007&sign=f1c34313bc9c897b1585bcc74f2704ac
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478243660509842198_ld.flv?expire=1742380844&sign=a9972060db1693f1c23eb66c218673dd
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",scooby_scooby_doo1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478259895033219862_ld.flv?expire=1742379024&sign=080b2f0b919a418fde3a1ae36b3e78cc
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478259895033219862_ld.flv?expire=1742380870&sign=22803dbca60728bc2b2e1130b5e1c005
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478248184163126038_ld.flv?expire=1742379029&sign=fadc2eb52df177cbc4fb692ece4170f3
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478263623148735254_ld.flv?expire=1742379029&sign=bd5b2d0dedf2a35a08ef0fb289170468
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478248184163126038_ld.flv?expire=1742380875&sign=c9d9a4cee526763d74b69927dd4bcb25
