@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478610556934179606_ld.flv?expire=1742463449&sign=74caa6c4f05035c7990610b1c558ca41
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478610556934179606_ld.flv?expire=1742465403&sign=e7d12cec17fd844eaf985d767f4d368f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478605175180167938_ld.flv?expire=1742463451&sign=d7e5a2d4f753f6cf8b44fed7c63295ea
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478605175180167938_ld.flv?expire=1742465405&sign=7cdfc4f99ddb9cff355676b35ff7f39b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478618624334400278_ld.flv?expire=1742463461&sign=cb3358b504432299e7d36966b0cf43c9
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478618624334400278_ld.flv?expire=1742465415&sign=ca9389195e826d2a4ae524dac92ff54b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",christianampardi
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478627726468631318_ld.flv?expire=1742463463&sign=2427736c05c651fe40983cbd093f7c21
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478627726468631318_ld.flv?expire=1742465416&sign=e2b1c27e7e8bebbc007062fa9e3b534b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannakis_pap_paok
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478630682667895574_ld.flv?expire=1742465424&sign=6198d1b37333dadec7d76d5157bc46ca
