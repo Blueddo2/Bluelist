@@ -1,11 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478981005219564310_ld.flv?expire=1742546469&sign=c984fbb39d6ea424168856d3946a46b0
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478981141605714690_ld.flv?expire=1742546469&sign=b0063d1792ddd1cb4f9f530c3c204a00
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478981005219564310_ld.flv?expire=1742548170&sign=e5892d2a38f6d94ae68598c42846b043
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478959975184845590_ld.flv?expire=1742546471&sign=72ed42e9df72cf5f1d53f0b5f4d30cb0
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478970371975482134_ld.flv?expire=1742546477&sign=b2efabb40efb2c37115dc810763c1258
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478945083414055703_ld.flv?expire=1742546516&sign=b79dbb106897fa45226ec4b205df086b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478959975184845590_ld.flv?expire=1742548172&sign=3e378b7f0c98ffca272102fc51e9a274
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478990870890302230_ld.flv?expire=1742548181&sign=6e6ee5736b323f19d5090df14ce7735b
