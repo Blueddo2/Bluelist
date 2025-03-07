@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479014737720757014_ld.flv?expire=1742561843&sign=47cc742a34096ee70d8d82f7bfc17277
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dwroula0
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479035819027270422_ld.flv?expire=1742561845&sign=3a541fd3f91d70eeb905f4a69a509350
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",koemtzidoyyyy
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479049862878022422_ld.flv?expire=1742561856&sign=93c76c7463deda310bdbef998fd846e1
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479046801690037014_ld.flv?expire=1742561864&sign=97baaec22a02997d05f10c2fb5d9e270
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479014737720757014_ld.flv?expire=1742563039&sign=041fb421df227dd8f8896fb21bcb742e
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479052609808714518_ld.flv?expire=1742563051&sign=e2922820b139f98d6904360826db50f7
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzortzia01
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479053160141589270_ld.flv?expire=1742563055&sign=2d5038050dfa9933e5cba4ff0ae5cac0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479020746138405654_ld.flv?expire=1742561887&sign=9c92c70577358694ad3c3b6b9d3d0d56
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479020746138405654_ld.flv?expire=1742563082&sign=4d40f13d221fe8308f95ad3a27d15164
