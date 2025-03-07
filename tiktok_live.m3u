@@ -1,9 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478981005219564310_ld.flv?expire=1742549781&sign=70c12d462f4720922932c557f1791cbf
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478959975184845590_ld.flv?expire=1742549783&sign=3d5f05c32b970d9f9447b94a12a1beff
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzortzia01
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478993328250309398_ld.flv?expire=1742549802&sign=de92698880ac0c29e4cd8cb87629bc7c
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478981005219564310_ld.flv?expire=1742551784&sign=8075665cdd0a0f0ac38655125836b749
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",despoina_dim_
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478998733843221270_ld.flv?expire=1742551795&sign=bdc596a588688190869e3ac12bb357e3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478990870890302230_ld.flv?expire=1742551796&sign=73aec5b7daee00e3b0583eb68079e22e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478992852715801366_ld.flv?expire=1742549816&sign=f817c3b5e440939094d07bc3f97a1203
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7478992852715801366_ld.flv?expire=1742551816&sign=528f27c876bceff903eabb4f9d5558e0
