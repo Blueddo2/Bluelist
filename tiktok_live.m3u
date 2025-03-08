@@ -1,7 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479334157844679446_ld.flv?expire=1742634452&sign=ded23d97d52ea6da2ef62a7b51fc56e4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479334157844679446_ld.flv?expire=1742635982&sign=3c4d868923088e637cb045f387b2e927
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eni.umi77
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479366892495784726_ld.flv?expire=1742635989&sign=111c6f6fe1196c5f2a3dc3f631e6a34d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479345070849411862_ld.flv?expire=1742634472&sign=f0d9dad558eaab362422129c8cabbf5d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479345070849411862_ld.flv?expire=1742636002&sign=dce9a458e8f4bdb56de7d5cfe0f0dd8c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannakis_pap_paok
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479357443926248214_ld.flv?expire=1742634474&sign=af2f90af2eef7dbeae32cfa4fea651af
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479357443926248214_ld.flv?expire=1742636003&sign=0a64a906d6eef594728dd24c61ed3b3d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479368111365081878_ld.flv?expire=1742636014&sign=bcce1079764c85cda1beb05efeecfbe0
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479366782113860374_ld.flv?expire=1742636015&sign=4dd7defe15de40b126a45470b4d4c994
