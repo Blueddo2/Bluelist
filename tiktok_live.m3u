@@ -1,7 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479776949589003030_ld.flv?expire=1742731914&sign=171ac8b17e4ba776c50d16f9ab8a6405
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurora__one
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479768948477594390_ld.flv?expire=1742729565&sign=8ff0f17d9e941fe8ffd768f5919b2d94
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479768948477594390_ld.flv?expire=1742731917&sign=90861c2df69e447878921331ae0da43d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannistserkis78
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479766899866602262_ld.flv?expire=1742729584&sign=164a83be952be1f741443802900ad5c5
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479766899866602262_ld.flv?expire=1742731936&sign=7b14dbb6f55d5635cadfaa2751eb1c50
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kokkinosskoufos_skg
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479764960449743638_ld.flv?expire=1742729595&sign=575d7a13e816f12ceef82b566d6b174b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479764960449743638_ld.flv?expire=1742731946&sign=e355c8871a9d7c8413500392e8d19e91
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479780944641084182_ld.flv?expire=1742731949&sign=c1152faa0f673561bb0ac5d49a38fcc8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",magic_vesto
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479775626280028950_ld.flv?expire=1742731951&sign=16cb32e273ff604dcc758f35c7fdf818
