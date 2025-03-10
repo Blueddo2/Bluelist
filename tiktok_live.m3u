@@ -1,11 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",orinimelissa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480160426196126486_ld.flv?expire=1742821175&sign=91be3ef9d15ba855e38510002e9dbcf1
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480160426196126486_ld.flv?expire=1742822364&sign=d7e19aa0bd8cef39e805a72470773c5b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dwroula0
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480143303629310742_ld.flv?expire=1742821178&sign=1b537614d3a26f09b69dabbd7d21ac6d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480143303629310742_ld.flv?expire=1742822366&sign=3044e66ec5e9da19906f768b02cecb55
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480168493074238230_ld.flv?expire=1742822372&sign=7f953ad7e10fe115b2007c6f0c99d5be
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",scooby_scooby_doo1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480145806143245078_ld.flv?expire=1742821204&sign=64278cad369f07140608533b9d9fee0a
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480134789800643350_ld.flv?expire=1742821226&sign=63c4068ac1699edf85da6bcab2eea93f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480145806143245078_ld.flv?expire=1742822389&sign=235bd5d5003607fe1fd4e9f4dd916f1f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",saliagos.nikos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480153124976200470_ld.flv?expire=1742821226&sign=33e5bb0beb1118f3fc8afc59db91a904
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480153124976200470_ld.flv?expire=1742822409&sign=9d0345a89a6bd40be3f3b4477ee664df
