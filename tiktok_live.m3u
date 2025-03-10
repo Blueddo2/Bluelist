@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479989394254891798_ld.flv?expire=1742783437&sign=5b9f941c6b712e768e32d8c8f65e535f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479989394254891798_ld.flv?expire=1742784341&sign=e436fa837aab6e1193e42c88f746f628
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theodora__astr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479918654686251798_ld.flv?expire=1742783437&sign=8d39e384726854f3df9287576880d2d8
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479867482425772822_ld.flv?expire=1742783451&sign=4ff07cbfdb26204b3a971974edd44fe3
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479918654686251798_ld.flv?expire=1742784341&sign=8ab28b429679dc19cf887e6d4287fbde
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479880449839713046_ld.flv?expire=1742783463&sign=3cdf0c27024a31469b96961eded47555
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479880449839713046_ld.flv?expire=1742784368&sign=205c7d0bc2360aaf64c1f8fd5924f377
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",katerinawhybe
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479988930286897942_ld.flv?expire=1742783476&sign=e6dde8c9cd3b6a8658859091f054a595
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7479988930286897942_ld.flv?expire=1742784382&sign=aab8a5731f1c689fd7f543e442576c9a
