@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480099065494391574_ld.flv?expire=1742810912&sign=d2c6db3def39f2fc55dcb19f900b32a3
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480099065494391574_ld.flv?expire=1742812547&sign=0f654556d66343ae6145679a28a10b4c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480065591177579287_ld.flv?expire=1742810914&sign=10d02c09535253d2115e87f01113024f
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xrisaki____
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480117029652335382_ld.flv?expire=1742810925&sign=54dd09392ca641c6466fe48a4d75eee0
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480065591177579287_ld.flv?expire=1742812549&sign=0d5712dde1baee1f29528a8af5575faa
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kapetannisa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480105765114596118_ld.flv?expire=1742810933&sign=e047bb8755f22db3a639a2e7640d331c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",candles.and.events
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480116670735354646_ld.flv?expire=1742810935&sign=fce9b33efc6124d86c6938a522798176
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480105765114596118_ld.flv?expire=1742812568&sign=0f75531ab3bc7bd2a36759277e6b3505
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480124887664364310_ld.flv?expire=1742812581&sign=88b55e021d1c47ed3a0da8e68f0a6b82
