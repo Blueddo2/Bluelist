@@ -1,7 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480785105414376214_ld.flv?expire=1742971490&sign=ff1d5198df8b9bf514174d505238e170
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480785105414376214_ld.flv?expire=1742972978&sign=74975f4ddd85050683220effdc7750c4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480811383614671638_ld.flv?expire=1742972980&sign=bc4d97642c578c210995373c35b7d026
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480797478728567574_ld.flv?expire=1742971502&sign=4b29dcdfa3f61a0b61e021127f35a0d4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480797478728567574_ld.flv?expire=1742972990&sign=93231ba2b1ee993ab6bd4c67e120952d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",focusfm103.6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480799976738622210_ld.flv?expire=1742971538&sign=9ab9c374c28757dfad9630de121c89f4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480799976738622210_ld.flv?expire=1742973024&sign=49d95c73c469ecb77a374223051a9854
