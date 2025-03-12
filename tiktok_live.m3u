@@ -1,11 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480841696146869014_ld.flv?expire=1742980187&sign=6b1458b814e7b70f6b93efe58e3cc498
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480811383614671638_ld.flv?expire=1742980189&sign=7c38ab3b14c873e330e3fdc4befc303a
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480826343832865558_ld.flv?expire=1742980200&sign=eb47cf4f15bbb0c3604348573100ad0c
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480841696146869014_ld.flv?expire=1742981851&sign=431326756f5b73b0adec1d2a56af462b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannakis_pap_paok
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480851220958808854_ld.flv?expire=1742981872&sign=a63ca6cbdb8988531e7644ae7dabc58d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480842143842585366_ld.flv?expire=1742980221&sign=746c42098a0d31768564865f388d3b42
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480841441657244438_ld.flv?expire=1742980232&sign=d0293d90314a4ccb48b53cc567bb2b32
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7480842143842585366_ld.flv?expire=1742981882&sign=3e5ccee6d734f44c783b206900428a78
