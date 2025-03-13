@@ -1,13 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77
+https://pull-flv-q77-va01.tiktokcdn-us.com/stage/stream-2999196235125227561_ld.flv?expire=1743044862&sign=1293d51f201885554f549530cd207e2d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theodora__astr
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481044567324707606_ld.flv?expire=1743041845&sign=5b6af3b52be2f8d82015ef10f301d8c2
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",._sweet_.devil
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481042453913701142_ld.flv?expire=1743041853&sign=c1f0447ed6fc81597ec84412fb9bb09e
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",leonidas_bakery
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481039122237311766_ld.flv?expire=1743041857&sign=76588107689fc8cbaedbb0ed45ee9768
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481048645992385302_ld.flv?expire=1743041859&sign=cccb62919ee30948c114839ca23fe288
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481014203206404886_ld.flv?expire=1743041864&sign=4cb1f8fbe3061d7f2c3c68129920a569
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481044567324707606_ld.flv?expire=1743044865&sign=01fcd499d6a82626acbf7d72b1f75835
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",katerinawhybe
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481107607319612182_ld.flv?expire=1743041883&sign=78b27c8a1267ab1923241c60ffed19c2
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7481107607319612182_ld.flv?expire=1743044903&sign=b8fa96934a620a1e244cc82a55c42eee
