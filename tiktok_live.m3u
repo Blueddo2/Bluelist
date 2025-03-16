@@ -1,5 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482327935270062870_ld.flv?expire=1743334426&sign=fc22991738f94f16b3a9456855686e9a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482327935270062870_ld.flv?expire=1743336873&sign=ca191444133d4d6b2d2a236c522c2ed9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",.anastasiaa_official
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482365011671747350_ld.flv?expire=1743336883&sign=674d7fcbe612765b1d6468342e0fb5a5
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482370538141600534_ld.flv?expire=1743336883&sign=d45bf2ac887ff1ba262d8e56873c7fe9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sof1anna
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482372626367744790_ld.flv?expire=1743336885&sign=e0e7fd879935ea8738a4550cbe15e0b5
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482375334270929686_ld.flv?expire=1743336886&sign=476493ae3a9e076df40afd43b39012ec
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kokkinosskoufos_skg
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482365076526861078_ld.flv?expire=1743334459&sign=24bb897492e4a2c6f39ef34c27b3ea37
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482365076526861078_ld.flv?expire=1743336918&sign=19f8283413b87c5c8e361aa537c828ed
