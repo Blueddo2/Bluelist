@@ -1,11 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482307007853120278_ld.flv?expire=1743327189&sign=000963014a2b0e25c87dea8c47d3d603
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482307007853120278_ld.flv?expire=1743329303&sign=72803046cc59682712473ae5b0f45e72
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482327935270062870_ld.flv?expire=1743327191&sign=de79d428f0a2fb73ad116ed8e50c69cd
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482327935270062870_ld.flv?expire=1743329305&sign=ac8a56e96731bf5567bb5fb790d72f5b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",despoina_dim_
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482333437311847190_ld.flv?expire=1743327201&sign=ef6abf101eb6fc5dbda643a1df96425a
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482334618236619542_ld.flv?expire=1743327201&sign=a259d4086af1b2bd7c4709a638f558b5
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482333437311847190_ld.flv?expire=1743329314&sign=7ffe367841df3f037377d4ab3cedf5cd
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482329025168345878_ld.flv?expire=1743327227&sign=954a825b742e708331696284736eedb2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482329025168345878_ld.flv?expire=1743329342&sign=cde325ffd2df02414abdc63ee24c38aa
