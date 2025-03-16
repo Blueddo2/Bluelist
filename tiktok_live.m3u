@@ -1,11 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482307007853120278_ld.flv?expire=1743331060&sign=4a6068a985de9c3af7365ff7f6a33a98
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482327935270062870_ld.flv?expire=1743331062&sign=b86f2a3364f5cb0f373ef9f3ff7164c1
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xrisaki____
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482347319602547478_ld.flv?expire=1743331073&sign=7c154181734e26ed354e3178243cf5b5
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",irinious1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482347846550293270_ld.flv?expire=1743331089&sign=153ad8db9c8db437cd88304169412b1a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482327935270062870_ld.flv?expire=1743332842&sign=6142206e4c8a57b7b06ebb11575cce2b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",christianampardi
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482357757153594134_ld.flv?expire=1743332853&sign=6154b26fc4ad9fb4079b37476ae99bf1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482329025168345878_ld.flv?expire=1743331098&sign=fcb01f523099dd889d5eca330473abde
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482329025168345878_ld.flv?expire=1743332878&sign=50f52bd1e4695b1f92d122a3a4b26a47
