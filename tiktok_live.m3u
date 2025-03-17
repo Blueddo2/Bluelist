@@ -1,21 +1,17 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",orinimelissa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482766604606917398_ld.flv?expire=1743430174&sign=12076591cdd420ee20482bf18b2ae233
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ngradiogr
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482779937625705238_ld.flv?expire=1743430174&sign=bbac126ba518ce872542fc1d925af276
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482779937625705238_ld.flv?expire=1743431997&sign=f1f50527dcfb2bbc2f338e591fec453d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurora__one
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482737525372898070_ld.flv?expire=1743430175&sign=e9bb8ca68dbef9164ff3b0217e871d2e
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482737525372898070_ld.flv?expire=1743431999&sign=e954ba0bd09e81707326ac2d89305b55
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dwroula0
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482769248307776278_ld.flv?expire=1743430175&sign=7ca251abcee7fb5f4f0d9903cff07e8d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482784566608956182_ld.flv?expire=1743431999&sign=a8cfaa9ec0b1d628c2a971fb55d9f619
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",despoina_dim_
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482760116627196694_ld.flv?expire=1743430181&sign=0239063cc97a3db14b5cbe2daa8977df
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482760116627196694_ld.flv?expire=1743432008&sign=c5519f100ca6ad8e60447eb7cd6104f3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482778200418814743_ld.flv?expire=1743432009&sign=e73f0acca160b630b26446f083edf018
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sof1anna
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482739087528119062_ld.flv?expire=1743430184&sign=5fcab9d8de7869c33f815fb2ed0b0ce2
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tzortzia01
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482734519575153430_ld.flv?expire=1743430190&sign=95818768dd79c0caed732407e3f1bff4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482739087528119062_ld.flv?expire=1743432011&sign=b68d74ac2414fe35d4d06826743e1ea2
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kapetannisa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482718555064126230_ld.flv?expire=1743430192&sign=acc7353caf333803905d0ef63be611b0
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482776422085675798_ld.flv?expire=1743430195&sign=fd0785118809ea5313dc6d6c3c596901
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482718555064126230_ld.flv?expire=1743432018&sign=a6243d5bc3dcf5d9aa9d20384efe42bb
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",saliagos.nikos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482753435989871362_ld.flv?expire=1743430218&sign=d28546c1c33f43c2e7d8f46a25738809
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7482753435989871362_ld.flv?expire=1743432048&sign=ffbe3570d8337c9a400f6509fb90be42
