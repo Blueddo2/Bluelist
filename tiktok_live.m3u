@@ -1,9 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483052982495267606_ld.flv?expire=1743502190&sign=f53c6309ed9363c8eb68f2663c3d8e28
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483052982495267606_ld.flv?expire=1743504058&sign=9e21541966164e824f32bbdfb6eb3c22
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483036989579938582_ld.flv?expire=1743502192&sign=07bfe0cb5c7b82e69974ff74e6653d9b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483036989579938582_ld.flv?expire=1743504060&sign=c620f2f74ebb95fcc0d901005534d4e2
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483090937259887382_ld.flv?expire=1743504069&sign=a27511228a21c8751c5dd324aeb162fb
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",a.ntinaa
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483094668705811222_ld.flv?expire=1743504072&sign=0e33d034134c140055bf8f7f224961cc
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kapetannisa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483086429133638402_ld.flv?expire=1743502211&sign=b8633a2fb1412ac87e1a09d05e0c2879
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483086429133638402_ld.flv?expire=1743504079&sign=2eb8c77e1556acc872b2f070823477f3
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483073389385534230_ld.flv?expire=1743502233&sign=0d3e2dfdcd90f72aba37c557700b5b4e
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7483073389385534230_ld.flv?expire=1743504099&sign=a98d6b5e410642c883f61fd0f5415363
