@@ -1,13 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484181443897166614_ld.flv?expire=1743761382&sign=eff380752694bf0b7cf67cb6bfebd3cd
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484197574959336214_ld.flv?expire=1743761382&sign=8c64dd31228edd3ded7cfb0d72dfb22b
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484152514217052950_ld.flv?expire=1743761384&sign=bd1b267a16a7b3acf61b111fbd9bdaf1
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484181443897166614_ld.flv?expire=1743763223&sign=a30964245eaeba5febdb090fbcfeb216
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",a.ntinaa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484185531945847574_ld.flv?expire=1743761397&sign=0449991e3ec7c61d6edea133a7224f44
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484206410163587862_ld.flv?expire=1743763237&sign=fd07c0fddd211e4ed34ca88922b8305b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliam
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484191287512419094_ld.flv?expire=1743761417&sign=6ab586ed2a0e4dace72f412da52adf8b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484191287512419094_ld.flv?expire=1743763256&sign=02def097e27473cd55bf58d64c3745ba
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",fishing_gives_life
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484190464506841878_ld.flv?expire=1743761425&sign=ddf88487b874ef634053b523bcdb815b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484190464506841878_ld.flv?expire=1743763265&sign=e17cd71177bf9b01ecdf1d8d04afd254
