@@ -1,17 +1,19 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484670381355518742_ld.flv?expire=1743874428&sign=0211c697c43dd387b188ab125e11498f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484670381355518742_ld.flv?expire=1743876663&sign=6e50523053cfa25e092695692f6bfae2
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",despinasianou3
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484655223652338454_ld.flv?expire=1743874430&sign=b07035c9d3217ae0c4a020c00200537f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484655223652338454_ld.flv?expire=1743876666&sign=d4f5a90e2c88af0d6713c97af39cb412
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",to_moviesroom
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484681329272621846_ld.flv?expire=1743874432&sign=ba99517284ddf13514fd5bacba3f4aa0
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484662238437378838_ld.flv?expire=1743874440&sign=e7f04182e85a858e5f353d69281c16f4
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",._sweet_.devil
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484675763422120726_ld.flv?expire=1743874441&sign=f00e80f425a5a0b232891153f5b054b2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484681329272621846_ld.flv?expire=1743876667&sign=0647cc181ce9112e2e245085eb4f75f2
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",linamistiliadou
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484697965643975446_ld.flv?expire=1743876670&sign=9928fed1636ce5f3d9e9ea93e0b68d46
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kaiti1959
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484694160432925462_ld.flv?expire=1743876674&sign=bfacfc825dae8f92b1bf60dca40ce87e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sof1anna
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484677243483360022_ld.flv?expire=1743874442&sign=37942d2e8a5aa8de48693b53a9e47d59
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484677243483360022_ld.flv?expire=1743876677&sign=6dc2c5ae4b576b72b90377f04010a7bb
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",nikoletta_korakaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484669078826027798_ld.flv?expire=1743874443&sign=f00ce4f32346f586705e4e422865d6ec
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kathxhtiko
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484677444358507286_ld.flv?expire=1743874460&sign=0700168f34dc453e1b403b83b6486448
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484669078826027798_ld.flv?expire=1743876679&sign=75a3b187b91fcb64276a5620e43183da
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",art_art434
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484688557014076182_ld.flv?expire=1743876680&sign=bbc86962d46da51cfa6f554d20b6fdb9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",saliagos.nikos
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7484694852836281110_ld.flv?expire=1743876710&sign=83a5ca6988cb311fc86c4feda62ce5fa
