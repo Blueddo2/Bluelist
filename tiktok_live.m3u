@@ -1,39 +1,41 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",andronikinikaki
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485055171520219926_ld.flv?expire=1743973654&sign=d343e834bff44a2973911f96896d9e08
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",orinimelissa
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485093117130738434_ld.flv?expire=1743973656&sign=2b058cde47dca1df9fa7459acfb60202
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurora__one
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485097749901789974_ld.flv?expire=1743973658&sign=8d781deb18229fad01716c7c4df58139
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485055171520219926_ld.flv?expire=1743975190&sign=c5339463fb82d284ef0239a6e9dbaaa1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dwroula0
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485106861467863830_ld.flv?expire=1743973658&sign=6c6b4cb44ccf01f389b1df36678ff27d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485106861467863830_ld.flv?expire=1743975194&sign=ad962ab5bbfe87c4b1d8b31a5127a719
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurora__one
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485097749901789974_ld.flv?expire=1743975194&sign=611a6abf0dd02395b5c0bad92d8835a5
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",linamistiliadou
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485099574600682262_ld.flv?expire=1743973658&sign=cb10def660c71dafc73faed155c6858d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485099574600682262_ld.flv?expire=1743975195&sign=e5dc13d1791889d3cdb37f4a4247633e
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",catherine.gian
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485104263062293270_ld.flv?expire=1743975195&sign=f504f7b1562bb6784a0a432ab5de9593
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",d0nalduck7
-https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7485073114108627734_ld.flv?expire=1743973660&sign=016e08bedf0cc15d27f06cd4b561b4aa
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485097803866245910_ld.flv?expire=1743973663&sign=55746badca29f3625e6c7ff53f57eef3
+https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7485073114108627734_ld.flv?expire=1743975197&sign=9c109afa233f9f7dc0c94e99fb47d096
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",._sweet_.devil
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485112671858199318_ld.flv?expire=1743973665&sign=73b5d74c5abd6d1deb00d86529e9a1d3
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485116525751159574_ld.flv?expire=1743975201&sign=d8bd89ea48d4bb669a64a0f9757e9b45
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sof1anna
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485117280013994774_ld.flv?expire=1743975202&sign=22c234dde833be522fd080a2249ac7e2
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vivivasiliadou6
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485098223460240150_ld.flv?expire=1743973665&sign=cc2a36a0f8cc0cf129f098e3d31d3296
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485098223460240150_ld.flv?expire=1743975203&sign=3c15b02ef4a8aacf151656818e2b4503
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485072957118188310_ld.flv?expire=1743973667&sign=ad8ef9b599651f054ddb81891e89a5ba
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485072957118188310_ld.flv?expire=1743975203&sign=6ac49c6e3c59a9ad256e1039ddab1c9b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",leonidas_bakery
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485107963278166806_ld.flv?expire=1743973670&sign=afe170b176e61823b67aad2d8ab1568a
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485107963278166806_ld.flv?expire=1743975206&sign=f8a11dc4d1322046c13aee17d7e4769d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485062355502500630_ld.flv?expire=1743973672&sign=7bf3623d49639b6e84097f84c680c0b5
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485062355502500630_ld.flv?expire=1743975208&sign=5c14d1ac2a41a4c24115b2eef47259cd
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mariosdellisofficial
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485116105599814422_ld.flv?expire=1743975210&sign=3ddfcc6a40d20acc1f758cea792354d8
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ella.blessed10
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485090646678522646_ld.flv?expire=1743973674&sign=7946e03dccf36bf98f7fc4b69f2a390d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485090646678522646_ld.flv?expire=1743975210&sign=dbd9f6a1eabd2e72b1cca0cf1878556f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",irinious1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485079950395984662_ld.flv?expire=1743973682&sign=3573d215338757658073cf1ec068237e
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485079950395984662_ld.flv?expire=1743975218&sign=e719cda605718f11bb92d6ddc8efca7a
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485112490926279446_ld.flv?expire=1743973684&sign=fa872ef10c98a5888ea3513aa65f903f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485112490926279446_ld.flv?expire=1743975220&sign=4f0ef7c153ec324df6efd67289bcc2f1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",venetvlive
-https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7485077116883831554_ld.flv?expire=1743973689&sign=3021a996fdae339f7ee411f5958430ae
+https://pull-f5-tt04.tiktokcdn-us.com/game/stream-7485077116883831554_ld.flv?expire=1743975225&sign=aa97d5b2454a61a39c91d5ef39c33cdb
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kostaspal1982
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485079342761134870_ld.flv?expire=1743973690&sign=bc411775e00c7f83154981fd780c5cf2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485079342761134870_ld.flv?expire=1743975226&sign=ef8c5e0b3567eb196bd485818a99c93e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pimenidisfilipos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485112807935396630_ld.flv?expire=1743973695&sign=e88dace00adf112f875e85b7d03f7053
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485112807935396630_ld.flv?expire=1743975231&sign=a5a01f1429fedab93a671eb9f8bd751c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",saliagos.nikos
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485062871952001814_ld.flv?expire=1743973698&sign=6fe3e00fe6ca38ddda181eddde7c911b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7485062871952001814_ld.flv?expire=1743975234&sign=594a4f43133844459d43f4901e7ad00c
