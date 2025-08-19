@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540190160781118230_ld.flv?expire=1756808145&sign=f260766cf9890dd3ad6c94ef68acf1a9
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540218029582977814_or4.flv?expire=1756805957&sign=4705c515067b844e3670e8495cc75d02
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540218029582977814_or4.flv?expire=1756808165&sign=0fe0f5d7e20b13d2369206261c48e22e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",carmenionela861
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540208156677344022_ld.flv?expire=1756805960&sign=b82d23769f2aa98f6b0c7a18cb1d3e2c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",asterochri
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540204346060016407_or4.flv?expire=1756805964&sign=edaad96b7830bbca9c946393570c89c6
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540208156677344022_ld.flv?expire=1756808169&sign=0544b0c5763a5ce7077414b6e5c5ee49
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",meli_aman
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540231829266254614_ld.flv?expire=1756808178&sign=e400a599de54245a84dfc60ee2e86636
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",katalyna_98
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540230597453564694_ld.flv?expire=1756808181&sign=2eaca882380131affa4408e6bd67368c
